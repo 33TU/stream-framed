@@ -27,3 +27,5 @@ function read() {
 
 write();
 ```
+
+![file-16LE](img/file-16LE.png)
